@@ -3,8 +3,6 @@ This Jupyter notebook models long-distance jump dynamics using coupled 2D differ
 
 ---
 
-## README.md
-
 ### Overview
 This project simulates human long-distance jumping mechanics using a system of coupled second-order ordinary differential equations (ODEs). The model incorporates position-dependent drag coefficients k_x(x) and k_z(z) defined via logistic functions to capture the physical effect of a jumper altering their posture mid-flight.
 
